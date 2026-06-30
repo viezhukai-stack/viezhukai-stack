@@ -28,6 +28,6 @@ I am open to sponsorships, workflow consulting, and product partnerships around 
 
 ## Flagship Project
 
-**Codex Hybrid Model Switcher** is in private release-candidate validation before public release.
+**Codex Hybrid Model Switcher** is preparing for public `v1.0.0` release.
 
 It is designed as a cross-platform tool for Codex users who want guarded model switching across OpenAI-compatible cloud providers and local llama.cpp models without losing account state, plugins, or project context.
