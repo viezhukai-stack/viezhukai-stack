@@ -1,4 +1,4 @@
-# Viezhukai Stack
+# viekai
 
 I build practical AI workflow tools for Codex, local models, and OpenAI-compatible providers.
 
@@ -23,6 +23,8 @@ I build practical AI workflow tools for Codex, local models, and OpenAI-compatib
 I am open to sponsorships, workflow consulting, and product partnerships around AI developer tools, local AI, and Codex-centered workflows.
 
 欢迎围绕 AI 工具工作流、本地模型、Codex 桌面端使用场景做内容合作、赞助或产品合作。
+
+**Contact / 合作联系:** viezhukai@gmail.com
 
 ## Flagship Project
 
